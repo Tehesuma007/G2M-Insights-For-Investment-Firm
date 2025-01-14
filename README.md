@@ -1,6 +1,3 @@
-Here's the converted markdown text:
-
-```markdown
 # Go to Market (G2M) Insights for Cab Investment Firm XYZ
 
 ## Project Brief
